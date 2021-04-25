@@ -1,6 +1,6 @@
-Total_Increment,Final_Height,Average_Height,Species
-85.85,154.08,89.70,Bressanvido
-22.22,32.22,19.81,IRTA X-80
-173.54,252.79,137.57,MJ209
-121.38,290.13,200.26,NG23
-251.88,318.29,153.56,NG38
+Species,Total_Increment,Final_Height,Average_Height
+Bressanvido,85.85,154.08,89.70
+IRTA X-80,22.22,32.22,19.81
+MJ209,173.54,252.79,137.57
+NG23,121.38,290.13,200.26
+NG38,251.88,318.29,153.56
